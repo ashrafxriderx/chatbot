@@ -1,0 +1,85 @@
+/* Global Styles */
+.main-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #555;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+.label {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+/* Course page styles */
+.course-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.progress-container {
+    text-align: right;
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+/* Chat interface styles */
+.user-message {
+    background-color: #f0f2f6;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 5px 0;
+    max-width: 80%;
+    margin-left: auto;
+    display: inline-block;
+}
+
+.ai-message {
+    background-color: #ffd580;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 5px 0;
+    max-width: 80%;
+    display: inline-block;
+}
+
+/* Button styles */
+.stButton button {
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+/* Make sure content is readable */
+p, li {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+h2, h3, h4 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+code {
+    padding: 2px 5px;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+}
+
+pre {
+    padding: 1rem;
+    background-color: #f6f8fa;
+    border-radius: 5px;
+    overflow-x: auto;
+}
